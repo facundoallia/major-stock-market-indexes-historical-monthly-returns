@@ -1,6 +1,6 @@
 # Major stock market indexes historical monthly returns
 
-### Se calcula el rendimiento continuo mensual promedio de los principales indices bursatiles estadounidenses:
+### Este script calcula el rendimiento historico mensual promedio de los principales indices bursatiles estadounidenses:
 
 * S&P500: Utilizando las cotizaciones de SPY en el periodo 01/02/1993 - 01/05/2022
 
@@ -10,4 +10,7 @@
 
 * RUSELL 2000: Utilizando las cotizaciones de RUT en el periodo 01/10/1987 - 01/05/2022
 
-<img src="https://github.com/facundoallia/major-stock-market-indexes-historical-monthly-returns/blob/main/output.png"  height="400">
+
+### Resultados obtenidos:
+
+<img src="https://github.com/facundoallia/major-stock-market-indexes-historical-monthly-returns/blob/main/output.jpg"  height="400">
