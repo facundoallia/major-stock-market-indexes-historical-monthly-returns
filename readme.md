@@ -10,4 +10,4 @@
 
 * RUSELL 2000: Utilizando las cotizaciones de RUT en el periodo 01/10/1987 - 01/05/2022
 
-<img src="../ouput.png"  height="400">
+<img src="https://github.com/facundoallia/major-stock-market-indexes-historical-monthly-returns/blob/main/output.png"  height="400">
