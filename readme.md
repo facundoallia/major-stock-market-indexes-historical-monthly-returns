@@ -1,5 +1,7 @@
 # Major stock market indexes historical monthly returns
 
+To see the English version go to [Medium](https://medium.com/@facujallia/sell-in-may-and-go-away-a-study-of-major-stock-market-indexs-historical-monthly-returns-96cf8ed3df1)
+
 ### Este script calcula el rendimiento historico mensual promedio de los principales indices bursatiles estadounidenses:
 
 * S&P500: Utilizando las cotizaciones de SPY en el periodo 01/02/1993 - 01/05/2022
